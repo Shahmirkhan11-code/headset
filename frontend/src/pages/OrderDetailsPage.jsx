@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 
 import { useParams, Link } from 'react-router-dom';
 import { Row, Col, ListGroup, Button, Image, Card } from 'react-bootstrap';
@@ -13,7 +13,7 @@ import { toast } from 'react-toastify';
 // import { FaIndianRupeeSign } from 'react-icons/fa6';
 import Loader from '../components/Loader';
 import Message from '../components/Message';
-import ServerError from '../components/ServerError';
+// import ServerError from '../components/ServerError';
 
 import axios from 'axios';
 import Meta from '../components/Meta';

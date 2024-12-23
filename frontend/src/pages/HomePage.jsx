@@ -9,7 +9,7 @@ import Loader from '../components/Loader';
 import Message from '../components/Message';
 import Paginate from '../components/Paginate';
 import ProductCarousel from '../components/ProductCarousel';
-import ServerError from '../components/ServerError';
+// import ServerError from '../components/ServerError';
 import Meta from '../components/Meta';
 
 const HomePage = () => {
